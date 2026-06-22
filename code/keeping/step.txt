@@ -1,0 +1,6 @@
+$python orient_pgd.py
+
+$python run_panorama.py
+
+Test Data (10, 11):
+$python orient_pgd_testdata.py
